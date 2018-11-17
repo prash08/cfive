@@ -1,6 +1,6 @@
 
 
-Creating a user registration form using nodejs and mongodb
+# Creating a user registration form using nodejs and mongodb
 
 This simple user registeration was made using--> node.js,express,handlebar  and mongodb.
 
